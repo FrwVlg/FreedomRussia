@@ -1,0 +1,65 @@
+[33mcommit 7fa3e32a3dfc9f32f1d686f88a8fee7029483b4c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 15:59:42 2022 +0300
+
+    A new file is added
+
+[33mcommit ad5b14f67a61750628052f6045bea77e4fdaca9f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 15:57:52 2022 +0300
+
+    A new file is added
+
+[33mcommit 73f3b7980167b475ccce0465cc2991be7b0c0c63[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 15:53:27 2022 +0300
+
+    A new file is added
+
+[33mcommit 0a9fd4d2ca3972b01c5ef0dcdeb3f9e546b0b8ce[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 10:29:29 2022 +0300
+
+    A new file is added
+
+[33mcommit 45767e3b378a1f7229e8c641e3ad9d134bf5edaa[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 10:25:47 2022 +0300
+
+    A new file is added
+
+[33mcommit 86d10f1bd8643238587aa10a185ec7271b755c1b[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 10:20:08 2022 +0300
+
+    A file has been removed
+
+[33mcommit 59a63fc8652b15699169af69602712613916ffad[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 10:12:49 2022 +0300
+
+    A new file is added
+
+[33mcommit cd2ac7bcbc002b5b3afcc7e28de4060e08881617[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 10:08:48 2022 +0300
+
+    A new file is added
+
+[33mcommit 20ec4ee5e571d32e30c46097067c223f759b0c95[m
+Author: Your Name <you@example.com>
+Date:   Fri Mar 11 09:59:20 2022 +0300
+
+    A new file is added
+
+[33mcommit 833d5a00591f3527ce8124d30b94fb7d946f9cf6[m
+Author: Vladimir <100984099+FrwVlg@users.noreply.github.com>
+Date:   Fri Mar 11 08:15:41 2022 +0300
+
+    Create  .gitignore
+
+[33mcommit 0c4b1d95b5ff5addfab14054b1d4f175588ba9e7[m
+Author: Vladimir <100984099+FrwVlg@users.noreply.github.com>
+Date:   Fri Mar 11 02:09:52 2022 +0300
+
+    Initial commit
